@@ -14,7 +14,7 @@
     {
         "name": "Ted",
         "age": 30,
-        "allergies": [],
+        "allergies": ["cats"],
         "attending": false
     },
     {
