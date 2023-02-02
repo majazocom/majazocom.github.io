@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Veronica",
+        "age": 23,
+        "allergies": ["nuts"],
+        "attending": true
+    },
+    {
+        "name": "John",
+        "age": 41,
+        "allergies": [],
+        "attending": true
+    },
+    {
+        "name": "Ted",
+        "age": 30,
+        "allergies": [],
+        "attending": false
+    },
+    {
+        "name": "Lola",
+        "age": 45,
+        "allergies": ["eggs"],
+        "attending": true
+    },
+    {
+        "name": "Claire",
+        "age": 21,
+        "allergies": [],
+        "attending": true
+    },
+    {
+        "name": "Rosa",
+        "age": 35,
+        "allergies": ["nuts"],
+        "attending": false
+    },
+    {
+        "name": "Fred",
+        "age": 33,
+        "allergies": [],
+        "attending": true
+    }
+]
