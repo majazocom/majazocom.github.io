@@ -76,7 +76,7 @@
         },
         "distance": 55758006,
         "orbitalPeriod": 687,
-        "desc": "Mars är den fjärde planeten från solen och solsystemets näst minsta planet. Den har fått sitt namn efter den romerska krigsguden Mars och kallas ibland för "den röda planeten" på grund av sitt rödaktiga utseende. Den röda färgen beror på stora mängder järnoxid som finns fördelat över ytan och i atmosfären.",
+        "desc": 'Mars är den fjärde planeten från solen och solsystemets näst minsta planet. Den har fått sitt namn efter den romerska krigsguden Mars och kallas ibland för "den röda planeten" på grund av sitt rödaktiga utseende. Den röda färgen beror på stora mängder järnoxid som finns fördelat över ytan och i atmosfären.',
         "moons": ["Phobos", "Deimos"]
     },
     {
