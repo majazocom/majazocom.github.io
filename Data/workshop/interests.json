@@ -40,5 +40,17 @@
         "title": "Pottering",
         "categoryId": 8,
         "interestAmount": 1
+    },
+    {
+        "id": 8,
+        "title": "Fantasy",
+        "categoryId": 10,
+        "interestAmount": 1
+    },
+    {
+        "id": 9,
+        "title": "World of Warcraft",
+        "categoryId": 3,
+        "interestAmount": 1
     }
 ]
