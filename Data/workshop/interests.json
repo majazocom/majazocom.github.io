@@ -52,5 +52,35 @@
         "title": "World of Warcraft",
         "categoryId": 3,
         "interestAmount": 1
+    },
+    {
+        "id": 10,
+        "title": "Beer",
+        "categoryId": 2,
+        "interestAmount": 3
+    },
+    {
+        "id": 11,
+        "title": "Wine",
+        "categoryId": 2,
+        "interestAmount": 3
+    },
+    {
+        "id": 12,
+        "title": "Coffee",
+        "categoryId": 2,
+        "interestAmount": 6
+    },
+    {
+        "id": 13,
+        "title": "Gardening",
+        "categoryId": 13,
+        "interestAmount": 1
+    },
+    {
+        "id": 14,
+        "title": "Interior design",
+        "categoryId": 13,
+        "interestAmount": 1
     }
 ]
