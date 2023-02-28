@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Rock climbing",
+        "categoryId": 1,
+        "interestAmount": 2
+    },
+    {
+        "id": 2,
+        "title": "Second hand shopping",
+        "categoryId": 4,
+        "interestAmount": 2
+    },
+    {
+        "id": 3,
+        "title": "Molecular gastronomy",
+        "categoryId": 2,
+        "interestAmount": 1
+    },
+    {
+        "id": 4,
+        "title": "Yoga",
+        "categoryId": 1,
+        "interestAmount": 1
+    },
+    {
+        "id": 5,
+        "title": "Painting",
+        "categoryId": 8,
+        "interestAmount": 1
+    },
+    {
+        "id": 6,
+        "title": "Martial arts",
+        "categoryId": 1,
+        "interestAmount": 1
+    },
+    {
+        "id": 7,
+        "title": "Pottering",
+        "categoryId": 8,
+        "interestAmount": 1
+    }
+]

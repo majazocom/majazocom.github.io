@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "title": "Sports"
+    },
+    {
+        "id": 2,
+        "title": "Food and drinks"
+    },
+    {
+        "id": 3,
+        "title": "Gaming"
+    },
+    {
+        "id": 4,
+        "title": "Fashion"
+    },
+    {
+        "id": 5,
+        "title": "Make-up"
+    },
+    {
+        "id": 6,
+        "title": "Vehicles"
+    },
+    {
+        "id": 7,
+        "title": "Health"
+    },
+    {
+        "id": 8,
+        "title": "Art"
+    },
+    {
+        "id": 9,
+        "title": "Travel"
+    },
+    {
+        "id": 10,
+        "title": "Books"
+    },
+    {
+        "id": 11,
+        "title": "Movies"
+    },
+    {
+        "id": 12,
+        "title": "Music"
+    },
+    {
+        "id": 13,
+        "title": "Other"
+    }
+]
