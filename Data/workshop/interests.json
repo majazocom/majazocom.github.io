@@ -3,84 +3,138 @@
         "id": 1,
         "title": "Rock climbing",
         "categoryId": 1,
-        "interestAmount": 2
+        "peopleWithInterest": 2
     },
     {
         "id": 2,
         "title": "Second hand shopping",
         "categoryId": 4,
-        "interestAmount": 2
+        "peopleWithInterest": 2
     },
     {
         "id": 3,
         "title": "Molecular gastronomy",
         "categoryId": 2,
-        "interestAmount": 1
+        "peopleWithInterest": 1
     },
     {
         "id": 4,
         "title": "Yoga",
         "categoryId": 1,
-        "interestAmount": 1
+        "peopleWithInterest": 1
     },
     {
         "id": 5,
         "title": "Painting",
         "categoryId": 8,
-        "interestAmount": 1
+        "peopleWithInterest": 1
     },
     {
         "id": 6,
         "title": "Martial arts",
         "categoryId": 1,
-        "interestAmount": 1
+        "peopleWithInterest": 1
     },
     {
         "id": 7,
         "title": "Pottering",
         "categoryId": 8,
-        "interestAmount": 1
+        "peopleWithInterest": 1
     },
     {
         "id": 8,
         "title": "Fantasy",
         "categoryId": 10,
-        "interestAmount": 1
+        "peopleWithInterest": 1
     },
     {
         "id": 9,
         "title": "World of Warcraft",
         "categoryId": 3,
-        "interestAmount": 1
+        "peopleWithInterest": 1
     },
     {
         "id": 10,
         "title": "Beer",
         "categoryId": 2,
-        "interestAmount": 3
+        "peopleWithInterest": 3
     },
     {
         "id": 11,
         "title": "Wine",
         "categoryId": 2,
-        "interestAmount": 3
+        "peopleWithInterest": 3
     },
     {
         "id": 12,
         "title": "Coffee",
         "categoryId": 2,
-        "interestAmount": 6
+        "peopleWithInterest": 6
     },
     {
         "id": 13,
         "title": "Gardening",
         "categoryId": 13,
-        "interestAmount": 1
+        "peopleWithInterest": 1
     },
     {
         "id": 14,
         "title": "Interior design",
         "categoryId": 13,
-        "interestAmount": 1
+        "peopleWithInterest": 1
+    },
+    {
+        "id": 15,
+        "title": "Soccer",
+        "categoryId": 1,
+        "peopleWithInterest": 0
+    },
+    {
+        "id": 16,
+        "title": "The Sims",
+        "categoryId": 3,
+        "peopleWithInterest": 0
+    },
+    {
+        "id": 17,
+        "title": "Cheeses",
+        "categoryId": 2,
+        "peopleWithInterest": 0
+    },
+    {
+        "id": 18,
+        "title": "Cooking",
+        "categoryId": 2,
+        "peopleWithInterest": 0
+    },
+    {
+        "id": 19,
+        "title": "Pokémon",
+        "categoryId": 3,
+        "peopleWithInterest": 0
+    },
+    {
+        "id": 20,
+        "title": "Make-up",
+        "categoryId": 5,
+        "peopleWithInterest": 0
+    },
+    {
+        "id": 21,
+        "title": "Cinema",
+        "categoryId": 11,
+        "peopleWithInterest": 0
+    },
+    {
+        "id": 22,
+        "title": "Concerts",
+        "categoryId": 12,
+        "peopleWithInterest": 0
+    },
+    {
+        "id": 23,
+        "title": "Hiking",
+        "categoryId": 1,
+        "peopleWithInterest": 0
     }
 ]
