@@ -2,31 +2,36 @@
     {
         "id": 1,
         "name": "Pelle",
-        "interests": ["Rock climbing", "Molecular gastronomy"]
+        "interests": ["Rock climbing", "Molecular gastronomy", "Beer", "Wine", "Coffee"]
     },
     {
         "id": 2,
         "name": "Roger",
-        "interests": ["Rock climbing", "Second hand shopping"]
+        "interests": ["Rock climbing", "Second hand shopping", "Wine", "Coffee"]
     },
     {
         "id": 3,
         "name": "Emma",
-        "interests": ["Second hand shopping", "Yoga"]
+        "interests": ["Second hand shopping", "Yoga", "Wine", "Coffee"]
     },
     {
         "id": 4,
         "name": "Leia",
-        "interests": ["Painting", "Martial arts"]
+        "interests": ["Painting", "Martial arts", "Beer", "Coffee"]
     },
     {
         "id": 5,
         "name": "Luke",
-        "interests": ["Pottering", "Martial arts"]
+        "interests": ["Pottering", "Martial arts", "Coffee"]
     },
     {
         "id": 6,
         "name": "Agneta",
-        "interests": ["Fantasy", "World of Warcraft"]
+        "interests": ["Fantasy", "World of Warcraft", "Beer", "Coffee"]
+    },
+    {
+        "id": 7,
+        "name": "Leon",
+        "interests": ["Gardening", "Interior design"]
     }
 ]
