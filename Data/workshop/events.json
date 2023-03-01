@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "title": "Bowling",
+        "relevantInterests": ["Bowling", "Beer"],
+        "date": "14 March 2023 18:45",
+        "info": "Lorem ipsum dolor sit amet consectetur. Nibh vitae posuere egestas nam velit velit amet feugiat in."
+    },
+    {
+        "id": 2,
+        "title": "Boardgames",
+        "relevantInterests": ["Boardgames", "Beer"],
+        "date": "14 March 2023 18:45",
+        "info": "Lorem ipsum dolor sit amet consectetur. Nibh vitae posuere egestas nam velit velit amet feugiat in."
+    }
+]
