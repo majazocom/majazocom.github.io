@@ -142,5 +142,23 @@
         "title": "Bowling",
         "categoryId": 1,
         "peopleWithInterest": 0
+    },
+    {
+        "id": 25,
+        "title": "Boardgames",
+        "categoryId": 3,
+        "peopleWithInterest": 0
+    },
+    {
+        "id": 26,
+        "title": "Writing petry",
+        "categoryId": 8,
+        "peopleWithInterest": 0
+    },
+    {
+        "id": 27,
+        "title": "Programming",
+        "categoryId": 15,
+        "peopleWithInterest": 0
     }
 ]
