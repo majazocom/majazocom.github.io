@@ -57,6 +57,10 @@
     },
     {
         "id": 15,
+        "title": "Technology"
+    },
+    {
+        "id": 16,
         "title": "Other"
     }
 ]
