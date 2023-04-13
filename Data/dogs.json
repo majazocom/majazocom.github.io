@@ -84,20 +84,6 @@
        }
     },
     {
-       "name":"Wilma",
-       "sex":"female",
-       "breed":"akita",
-       "img":"https://images.dog.ceo/breeds/akita/Akita_inu_blanc.jpg",
-       "present":false,
-       "age":6,
-       "chipNumber":"GEL894256",
-       "owner":{
-          "name":"David",
-          "lastName":"Doner",
-          "phoneNumber":"0705449389"
-       }
-    },
-    {
        "name":"Bamse",
        "sex":"male",
        "breed":"newfoundland",
