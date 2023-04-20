@@ -34,5 +34,11 @@
       "price": 23,
       "id": 6,
       "img": ""
+   },
+   {
+      "name": "Candy Mix",
+      "price": 50,
+      "id": 7,
+      "img": ""
    }
  ]
