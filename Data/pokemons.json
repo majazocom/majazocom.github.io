@@ -1,62 +1,170 @@
 [
    {
-      "name": "bulbasaur"
+      "name": "bulbasaur",
+      "id": 1,
+      "type": ["grass", "poison"],
+      "image": "https://static.wikia.nocookie.net/pokemon/images/2/21/001Bulbasaur.png/revision/latest/scale-to-width-down/200?cb=20200620223551"
    },
    {
-      "name": "ivysaur"
+      "name": "ivysaur",
+      "id": 2,
+      "type": ["grass", "poison"],
+      "image": "https://static.wikia.nocookie.net/pokemon/images/7/73/002Ivysaur.png/revision/latest/scale-to-width-down/200?cb=20140328190847"
    },
    {
-      "name": "venusaur"
+      "name": "venusaur",
+      "id": 3,
+      "type": ["grass", "poison"],
+      "image": "https://static.wikia.nocookie.net/pokemon/images/a/ae/003Venusaur.png/revision/latest/scale-to-width-down/200?cb=20200731133335"
    },
    {
-      "name": "charmander"
+      "name": "charmander",
+      "id": 4,
+      "type": ["fire"],
+      "image": "https://static.wikia.nocookie.net/pokemon/images/7/73/004Charmander.png/revision/latest/scale-to-width-down/187?cb=20200620223744"
    },
    {
-      "name": "charmeleon"
+      "name": "charmeleon",
+      "id": 5,
+      "type": ["fire"],
+      "image": "https://static.wikia.nocookie.net/pokemon/images/4/4a/005Charmeleon.png/revision/latest/scale-to-width-down/200?cb=20140328191309"
    },
    {
-      "name": "charizard"
+      "name": "charizard",
+      "id": 6
+      "type": ["fire", "flying"],
+      "image": "https://static.wikia.nocookie.net/pokemon/images/7/7e/006Charizard.png/revision/latest/scale-to-width-down/200?cb=20200731134217"
    },
    {
-      "name": "squirtle"
+      "name": "squirtle",
+      "id": 7
+      "type": ["water"],
+      "image": "https://static.wikia.nocookie.net/pokemon/images/3/39/007Squirtle.png/revision/latest/scale-to-width-down/178?cb=20200620223922"
    },
    {
-      "name": "wartortle"
+      "name": "wartortle",
+      "id": 8
+      "type": ["water"],
+      "image": "https://static.wikia.nocookie.net/pokemon/images/0/0c/008Wartortle.png/revision/latest/scale-to-width-down/200?cb=20140328191553"
    },
    {
-      "name": "blastoise"
+      "name": "blastoise",
+      "id": 9
+      "type": ["water"],
+      "image": "https://static.wikia.nocookie.net/pokemon/images/0/02/009Blastoise.png/revision/latest/scale-to-width-down/190?cb=20200731133731"
    },
    {
-      "name": "caterpie"
+      "name": "caterpie",
+      "id": 10
+      "type": ["bug"],
+      "image": "https://static.wikia.nocookie.net/pokemon/images/5/5d/010Caterpie.png/revision/latest/scale-to-width-down/200?cb=20201109201919"
    },
    {
-      "name": "metapod"
+      "name": "metapod",
+      "id": 11,
+      "type": ["bug"],
+      "image": "https://static.wikia.nocookie.net/pokemon/images/c/cd/011Metapod.png/revision/latest/scale-to-width-down/200?cb=20140328191749"
    },
    {
-      "name": "butterfree"
+      "name": "butterfree",
+      "id": 12,
+      "type": ["bug", "flying"],
+      "image": "https://static.wikia.nocookie.net/pokemon/images/d/d1/012Butterfree.png/revision/latest/scale-to-width-down/200?cb=20140328191825"
    },
    {
-      "name": "weedle"
+      "name": "weedle",
+      "id": 13,
+      "type": ["bug", "poison"],
+      "image": "https://static.wikia.nocookie.net/pokemon/images/d/df/013Weedle.png/revision/latest/scale-to-width-down/200?cb=20140328191838"
    },
    {
-      "name": "kakuna"
+      "name": "kakuna",
+      "id": 14,
+      "type": ["bug", "poison"],
+      "image": "https://static.wikia.nocookie.net/pokemon/images/f/f0/014Kakuna.png/revision/latest/scale-to-width-down/200?cb=20140328191918"
    },
    {
-      "name": "beedrill"
+      "name": "beedrill",
+      "id": 15,
+      "type": ["bug", "poison"],
+      "image": "https://static.wikia.nocookie.net/pokemon/images/6/61/015Beedrill.png/revision/latest/scale-to-width-down/200?cb=20140328191940"
    },
    {
-      "name": "pidgey"
+      "name": "pidgey",
+      "id": 16,
+      "type": ["normal", "flying"],
+      "image": "https://static.wikia.nocookie.net/pokemon/images/5/55/016Pidgey.png/revision/latest/scale-to-width-down/200?cb=20140328192030"
    },
    {
-      "name": "pidgeotto"
+      "name": "pidgeotto",
+      "id": 17,
+      "type": ["normal", "flying"],
+      "image": "https://static.wikia.nocookie.net/pokemon/images/7/7a/017Pidgeotto.png/revision/latest/scale-to-width-down/200?cb=20140328192046"
    },
    {
-      "name": "pidgeot"
+      "name": "pidgeot",
+      "id": 18,
+      "type": ["normal", "flying"],
+      "image": "https://static.wikia.nocookie.net/pokemon/images/5/57/018Pidgeot.png/revision/latest/scale-to-width-down/200?cb=20140328192120"
    },
    {
-      "name": "rattata"
+      "name": "rattata",
+      "id": 19,
+      "type": ["normal"],
+      "image": "https://static.wikia.nocookie.net/pokemon/images/4/46/019Rattata.png/revision/latest/scale-to-width-down/200?cb=20140328192134"
    },
    {
-      "name": "raticate"
+      "name": "raticate",
+      "id": 20,
+      "type": ["normal"],
+      "image": "https://static.wikia.nocookie.net/pokemon/images/f/f4/020Raticate.png/revision/latest/scale-to-width-down/200?cb=20140328192215"
+   },
+   {
+      "name": "spearow",
+      "id": 21,
+      "type": ["normal", "flying"],
+      "image": "https://static.wikia.nocookie.net/pokemon/images/8/8b/021Spearow.png/revision/latest/scale-to-width-down/200?cb=20140328192232"
+   },
+   {
+      "name": "fearow",
+      "id": 22,
+      "type": ["normal", "flying"],
+      "image": "https://static.wikia.nocookie.net/pokemon/images/a/a0/022Fearow.png/revision/latest/scale-to-width-down/200?cb=20140328192324"
+   },
+   {
+      "name": "ekans",
+      "id": 23,
+      "type": ["poison"],
+      "image": "https://static.wikia.nocookie.net/pokemon/images/f/fa/023Ekans.png/revision/latest/scale-to-width-down/200?cb=20140328192338"
+   },
+   {
+      "name": "arbok",
+      "id": 24,
+      "type": ["poison"],
+      "image": "https://static.wikia.nocookie.net/pokemon/images/c/cd/024Arbok.png/revision/latest/scale-to-width-down/200?cb=20140328200611"
+   },
+   {
+      "name": "pikachu",
+      "id": 25,
+      "type": ["electric"],
+      "image": "https://static.wikia.nocookie.net/pokemon/images/0/0d/025Pikachu.png/revision/latest/scale-to-width-down/200?cb=20200620223403"
+   },
+   {
+      "name": "raichu",
+      "id": 26,
+      "type": ["electric"],
+      "image": "https://static.wikia.nocookie.net/pokemon/images/8/88/026Raichu.png/revision/latest/scale-to-width-down/200?cb=20140328192425"
+   },
+   {
+      "name": "sandshrew",
+      "id": 27,
+      "type": ["ground"],
+      "image": "https://static.wikia.nocookie.net/pokemon/images/9/9e/027Sandshrew.png/revision/latest/scale-to-width-down/200?cb=20140328192538"
+   },
+   {
+      "name": "sandslash",
+      "id": 28,
+      "type": ["ground"],
+      "image": "https://static.wikia.nocookie.net/pokemon/images/0/0b/028Sandslash.png/revision/latest/scale-to-width-down/200?cb=20140328192555"
    }
 ]
