@@ -1,6 +1,7 @@
 [
    {
       "title": "The eye of the world",
+      "isbn": 9780812511819,
       "author": "Robert Jordan",
       "pages": 782,
       "genre": ["fantasy"],
@@ -8,6 +9,7 @@
    },
    {
       "title": "The fellowship of the ring",
+      "isbn": 9780547928210,
       "author": "JRR Tolkien",
       "pages": 423,
       "genre": ["fantasy"],
@@ -15,6 +17,7 @@
    },
    {
       "title": "The trial",
+      "isbn": 9789354620911,
       "author": "Franz Kafka",
       "pages": 152,
       "genre": ["philosophical fiction"],
@@ -22,6 +25,7 @@
    },
    {
       "title": "The girl with the dragon tattoo",
+      "isbn": 9781847242532,
       "author": "Stieg Larsson",
       "pages": 544,
       "genre": ["crime"],
@@ -29,6 +33,7 @@
    },
    {
       "title": "Of mice and men",
+      "isbn": 9780140177398,
       "author": "John Steinbeck",
       "pages": 107,
       "genre": ["tragedy"],
@@ -36,6 +41,7 @@
    },
    {
       "title": "One Day in the Life of Ivan Denisovich",
+      "isbn": 9780451531049,
       "author": "Aleksandr Solzjenitsyn",
       "pages": 200,
       "genre": ["historical fiction"],
