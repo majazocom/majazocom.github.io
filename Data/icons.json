@@ -86,6 +86,10 @@
   {
       "icon": "🚩",
       "title": "flag"
-    }
+    },
+   {
+      "icon": "🔫",
+      "title": "hunting"
+   }
 ]
 
