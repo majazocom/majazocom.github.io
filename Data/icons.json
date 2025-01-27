@@ -1,8 +1,91 @@
-{
-  [
-    {
-      "icon": "",
+[
+   {
+      "icon": "🪁",
+      "title": "kite"
+    },
+  {
+      "icon": "🧘‍♀️",
+      "title": "yoga"
+    },
+  {
+      "icon": "🏄‍♀️",
+      "title": "surfing"
+    },
+  {
+      "icon": "🏊‍♀️",
+      "title": "swimming"
+    },
+  {
+      "icon": "🚣‍♀️",
+      "title": "canoe"
+    },
+  {
+      "icon": "🧗‍♀️",
+      "title": "bouldering"
+    },
+  {
+      "icon": "🚴‍♀️",
+      "title": "biking"
+    },
+  {
+      "icon": "🚗",
+      "title": "car"
+    },
+  {
+      "icon": "⛵️",
+      "title": "boat"
+    },
+  {
+      "icon": "🏕️",
       "title": "tent"
+    },
+  {
+      "icon": "🏠",
+      "title": "house"
+    },
+  {
+      "icon": "🏥",
+      "title": "hospital"
+    },
+  {
+      "icon": "🏞️",
+      "title": "park"
+    },
+  {
+      "icon": "🏙️",
+      "title": "city"
+    },
+  {
+      "icon": "🍄",
+      "title": "mushroom"
+    },
+  {
+      "icon": "🌲",
+      "title": "forest"
+    },
+  {
+      "icon": "🍉",
+      "title": "picnic"
+    },
+  {
+      "icon": "🥂",
+      "title": "celebration"
+    },
+  {
+      "icon": "❤️",
+      "title": "red-heart"
+    },
+  {
+      "icon": "💛",
+      "title": "yellow-heart"
+    },
+  {
+      "icon": "💚",
+      "title": "green-heart"
+    },
+  {
+      "icon": "🚩",
+      "title": "flag"
     }
-  ]
-}
+]
+
